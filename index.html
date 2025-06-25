@@ -1,23 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <link rel="icon" href="/favicon.ico">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tree Grid - Easily Record and Plan Everything in an Organized Way.</title>
-      <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-00P8YT0K8N"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-00P8YT0K8N');
-</script>
-    <script type="module" crossorigin src="./assets/index-CXsHj3qb.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-czN5ZXDD.css">
-  </head>
-  <body>
-    <div id="app" class="flex h-screen flex-col"></div>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tree Grid - Easily Record and Plan Everything in an Organized Way.</title>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-00P8YT0K8N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-00P8YT0K8N');
+  </script>
+    <style>
+       #about body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        #about {
+            width: 100%;
+            padding: 24px;
+        }
+        
+        #about h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #1f2937;
+            margin-bottom: 16px;
+        }
+        
+        #about .description {
+            font-size: 18px;
+            color: #4b5563;
+            margin-bottom: 24px;
+            line-height: 1.75;
+        }
+        
+        #about .highlight {
+            font-weight: 600;
+            color: #2563eb;
+        }
+        
+        #about .loading-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            font-weight: 500;
+            color: #374151;
+            margin-bottom: 16px;
+        }
+        
+        #about .loading-spinner {
+            width: 24px;
+            height: 24px;
+            margin-left: 8px;
+        }
+        
+        #about .js-note {
+            color: #6b7280;
+            font-style: italic;
+        }
+        </style>
+  <script type="module" crossorigin src="./assets/index-DlHh3_yb.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-BRkic1hD.css">
+</head>
+
+<body>
+  <div id="app" class="flex h-screen flex-col">
+    <div id="about">
+      
+      <h1>Organized Data & Planning Software</h1>
+        
+      <p class="description">
+          <span class="highlight">TreeGrid.io</span> is a free online tool that helps you 
+          <span class="highlight">organize, manage, and visualize</span> your data and plans efficiently.
+          Designed for clarity and productivity, it enables users to structure information in a 
+          <span class="highlight">logical and intuitive</span> way.
+      </p>
+      
+      <div class="loading-container">
+          <span>Loading...</span>
+          <img src="./images/spin.gif" class="loading-spinner" alt="Loading spinner" />
+      </div>
+      
+      <p class="js-note">
+          Please ensure JavaScript is enabled.
+      </p>
+  </div>
+  </div>
+</body>
+
 </html>
