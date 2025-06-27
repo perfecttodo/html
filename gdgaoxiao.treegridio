@@ -1,0 +1,472 @@
+{
+  "tabs": [
+    {
+      "id": "9e8adbc5-8aba-40cb-9218-4335aa50827c",
+      "title": "广东高校",
+      "saved": true,
+      "emoji": false
+    }
+  ],
+  "activeTab": 0,
+  "datas": {
+    "9e8adbc5-8aba-40cb-9218-4335aa50827c": {
+      "config": {
+        "cols": [
+          {
+            "id": "cccbd787-6e73-454d-871c-4b684c2c5ff6",
+            "field": {},
+            "cp": "ColSeq",
+            "width": 24.4453125,
+            "name": "#",
+            "fn": 0,
+            "show": true,
+            "sticky": true
+          },
+          {
+            "id": "187eb829-1b26-44c4-929d-835491834527",
+            "field": {},
+            "cp": "ColTitle",
+            "width": 173.703125,
+            "name": "<b>高校名称</b>",
+            "fn": 1,
+            "show": true,
+            "sticky": true
+          },
+          {
+            "id": "111c9878-f933-4175-8328-13e4c4665a4b",
+            "field": {},
+            "cp": "ColDropText",
+            "width": 381.2578125,
+            "name": "<b>招生网址</b>",
+            "fn": 2,
+            "show": true,
+            "sticky": false,
+            "options": "To Do,In Progress,Done"
+          },
+          {
+            "id": "d261633e-d712-4c97-9d8f-27b465693734",
+            "cp": "ColDropText",
+            "width": 55.0625,
+            "name": "<b>类型</b>",
+            "fn": 3,
+            "show": true,
+            "sticky": false
+          }
+        ],
+        "title": "Project Plan 1(New)",
+        "startDate": "2025-06-27T07:04:52.010Z",
+        "weekCount": 2,
+        "showSch": false
+      },
+      "data": {
+        "_childs": [
+          {
+            "c1": "哈尔滨工业大学(深圳)",
+            "c2": "http://zsb.hitsz.edu.cn/bzs/zswz",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "香港中文大学(深圳)",
+            "c2": "http://admissions.cuhk.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "南方科技大学",
+            "c2": "http://zs.sustech.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "中山大学",
+            "c2": "http://admission.sysu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "北京师范大学(珠海校区)",
+            "c2": "https://admission.bnu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "华南理工大学",
+            "c2": "http://admission.scut.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "深圳大学",
+            "c2": "http://zs.szu.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "暨南大学",
+            "c2": "https://zsb.jnu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "北京理工大学(珠海校区)",
+            "c2": "https://zh.bit.edu.cn/zsjy2/bkszs1.htm",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "华南师范大学",
+            "c2": "https://zsb.scnu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州美术学院",
+            "c2": "https://www.gzarts.edu.cn/index/zsjy/zsxx.htm",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东外语外贸大学",
+            "c2": "https://zs.gdufs.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "星海音乐学院",
+            "c2": "https://zs.xhcom.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "汕头大学",
+            "c2": "https://zs.stu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "深圳技术大学",
+            "c2": "http://zs.sztu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州中医药大学",
+            "c2": "https://www.gzucm.edu.cn/zsjy/zs.htm",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "南方医科大学",
+            "c2": "http://portal.smu.edu.cn/bkzs/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州大学",
+            "c2": "http://zsjy.gzhu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东医科大学",
+            "c2": "https://zs.gdmu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州医科大学",
+            "c2": "https://zs.gzhmu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东工业大学",
+            "c2": "http://zsb.gdut.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "汕头大学医学院",
+            "c2": "http://zs.med.stu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "华南农业大学",
+            "c2": "http://zsb.scau.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东财经大学",
+            "c2": "http://zsb.gdufe.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "五邑大学",
+            "c2": "http://www.wyu.edu.cn/zsb/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "北师香港浸会大学",
+            "c2": "https://admission.uic.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州体育学院",
+            "c2": "https://gtzs.gzsport.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "北京师范大学珠海分校",
+            "c2": "",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "深圳理工大学",
+            "c2": "https://zs.suat-sz.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "东莞理工学院",
+            "c2": "http://zsb.dgut.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东金融学院",
+            "c2": "https://zs.gduf.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东药科大学",
+            "c2": "http://zsb.gdpu.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东第二师范学院",
+            "c2": "http://web.gdei.edu.cn/zsb/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "肇庆学院",
+            "c2": "http://zsb.zqu.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "深圳北理莫斯科大学",
+            "c2": "https://admission.smbu.edu.cn/zsbm/zhpjzsbm1/bmliu_cheng.htm",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东技术师范大学",
+            "c2": "https://zs.gpnu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "嘉应学院",
+            "c2": "http://zs.jyu.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东警官学院",
+            "c2": "http://zsb.gdppla.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "韶关学院",
+            "c2": "http://www.sgu.edu.cn/zsxxw/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东以色列理工学院",
+            "c2": "https://sites.gtiit.edu.cn/admissions/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "香港科技大学(广州)",
+            "c2": "https://ugadmissions.hkust-gz.edu.cn/zh-CN/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "仲恺农业工程学院",
+            "c2": "https://zsb-portal.zhku.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "佛山大学",
+            "c2": "https://zsb.fosu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "岭南师范学院",
+            "c2": "http://zsb.lingnan.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东海洋大学",
+            "c2": "https://zsjy.gdou.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "韩山师范学院",
+            "c2": "https://zsb.hstc.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "惠州学院",
+            "c2": "https://zs.hzu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "大湾区大学",
+            "c2": "",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东石油化工学院",
+            "c2": "https://www.gdupt.edu.cn/zs/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "香港城市大学(东莞)",
+            "c2": "https://www.cityu-dg.edu.cn/home",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "肇庆医学院",
+            "c2": "https://zhaosheng.zqmc.edu.cn/index.htm",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州航海学院",
+            "c2": "http://zsb.gzmtu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "珠海科技学院",
+            "c2": "https://zsb.zcst.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东外语外贸大学南国商学院",
+            "c2": "https://www.gwng.edu.cn/zsb/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "北京理工大学珠海学院",
+            "c2": "https://admission.bitzh.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东培正学院",
+            "c2": "http://zb.peizheng.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州华商学院",
+            "c2": "http://zs.gdhsc.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州华立学院",
+            "c2": "https://www.hualixy.edu.cn/zsb/pgzs",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州软件学院",
+            "c2": "https://zs.seig.edu.cn/recruit/index/index",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州城市理工学院",
+            "c2": "https://zs.gcu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州应用科技学院",
+            "c2": "https://www.gzasc.edu.cn/zs/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "东莞城市学院",
+            "c2": "http://zsw.dgcu.edu.cn/newslist.php?catid=151",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州新华学院",
+            "c2": "http://zsb.xhsysu.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "电子科技大学中山学院",
+            "c2": "http://zsb.zsc.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东白云学院",
+            "c2": "https://zsb.baiyunu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "深圳职业技术大学",
+            "c2": "https://zhaosheng.szpu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州南方学院",
+            "c2": "http://zsb.nfu.edu.cn",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州理工学院",
+            "c2": "https://zsb.gzist.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东东软学院",
+            "c2": "https://www.nuit.edu.cn/zsxxw",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "华南农业大学珠江学院",
+            "c2": "https://zs.scauzj.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东科技学院",
+            "c2": "https://zs.gdust.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州工商学院",
+            "c2": "http://www.gzgs.edu.cn/zsb",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东理工学院",
+            "c2": "http://zsb.gdlgxy.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州商学院",
+            "c2": "https://zsb.gcc.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "湛江科技学院",
+            "c2": "https://zs.zjkju.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东工商职业技术大学",
+            "c2": "http://zsb.gdbtu.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州科技职业技术大学",
+            "c2": "https://zs.gkd.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广州职业技术大学",
+            "c2": "http://www.gzpyp.edu.cn/zs",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "广东轻工职业技术大学",
+            "c2": "https://zs.gdip.edu.cn/web/home",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "顺德职业技术大学",
+            "c2": "https://zs.sdpt.edu.cn/",
+            "c3": "普通本科"
+          },
+          {
+            "c1": "深圳信息职业技术大学",
+            "c2": "https://zhaob.sziit.edu.cn/",
+            "c3": "普通本科"
+          }
+        ]
+      }
+    }
+  }
+}
