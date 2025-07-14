@@ -65,7 +65,7 @@
         "showSch": false
       },
       "data": {
-        "_childs": [
+        "rows": [
           {
             "c1": "哈尔滨工业大学(深圳)",
             "c2": "http://zsb.hitsz.edu.cn/bzs/zswz",
@@ -476,7 +476,7 @@
     },
     "54946ad7-ea06-42dc-92c8-934c39ceda1b": {
       "data": {
-        "_childs": [
+        "rows": [
           {
             "c1": "广东邮电职业技术学院",
             "c2": "http://www.gupt.edu.cn/zsw/",
